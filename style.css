@@ -197,6 +197,17 @@
 
 }
 
+.testimony {
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+
+
+
 
 
 
@@ -271,4 +282,43 @@
     font-size: 15px;
     text-align: left;
     margin-left: 5px;
+}
+
+.testimony {
+    display: flex;
+    margin: 50px;
+    padding: 0 100px 0 0;
+
+}
+
+.testimony>.section-one {
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+
+}
+
+.testimony>.section-one>p {
+    color: #b3b3b3;
+}
+
+.testimony>.section-two {
+    width: 50%;
+    height: 100%;
+
+}
+
+
+
+.sec-two-in {
+    padding: 50px;
+}
+
+.c-photo {
+    width: 350px;
+    height: 350px;
+}
+
+.praise {
+    color: #b3b3b3;
 }
